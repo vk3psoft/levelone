@@ -1,0 +1,3 @@
+[submodule "Projects/Projects/innerOne"]
+	path = Projects/Projects/innerOne
+	url = https://github.com/vk3psoft/innerOne.git
